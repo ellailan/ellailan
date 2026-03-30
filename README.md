@@ -1,6 +1,6 @@
 # Hi there! I’m Ella 👋
 
-I'm a Data Science student at UBC with a minor in Economics.
+I'm a Data Science student with a minor in Economics, at the University of British Columbia in Vancouver, BC.
 
 ## A little about what I do
 * I'm an incoming Intern @ Samsung R&D Canada
